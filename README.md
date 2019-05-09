@@ -1,4 +1,4 @@
-# routingAlgorithms
+# Routing Algorithms for ring circulant topologies of the second order (2 generatrices). For use in networks-on-chip.
 These are supplementary materials for   
 A.Y. Romanov, Development of routing algorithms in networks-on-chip based on ring circulant topologies, Heliyon. 5 (2019) e01516.     
 https://doi.org/10.1016/j.heliyon.2019.e01516.
